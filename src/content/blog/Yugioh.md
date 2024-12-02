@@ -1,12 +1,3 @@
----
-title: '游戏王中日英对照'
-description: "游戏王常用单词句子中日英对照"
-date: 2022-02-04
-tags: ['Natural Language']
-image: ''
-authors: ['0d00']
----
-
 [本文基本参照 yugioh.fandom.com](https://yugioh.fandom.com/wiki/Japanese_terms_and_phrases#Common_phrases_in_card_text)
 
 # 游戏王常用中日英对照
